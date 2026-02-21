@@ -3,9 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:388bfd,100:58a6ff&height=280&section=header&text=Amir%20Reza&fontSize=90&fontColor=ffffff&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Electrotechnics%20Student%20%E2%80%A2%20Tech%20Innovator&descSize=18&descColor=8b949e&descAlignY=52&animation=fadeIn&stroke=58a6ff&strokeWidth=2" />
 
-<!-- Matrix Rain Effect -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="30">
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=%E2%9C%A8+Welcome+to+My+Digital+Universe+%E2%9C%A8;%F0%9F%92%BB+3%2B+Years+of+Building+%26+Innovating;%F0%9F%8E%93+Electrotechnics+%40+University;%F0%9F%94%A5+Passionate+About+Clean+%26+Scalable+Code;%F0%9F%9A%80+Turning+Coffee+into+Code+Since+2022" alt="Typing SVG" />
@@ -72,10 +69,8 @@
 
 <!-- About Me Section -->
 <div align="center">
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;About Me — The Human Behind the Code</h2>
+<h2>🧑‍💻 About Me — The Human Behind the Code</h2>
 </div>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 <br/>
 
@@ -124,8 +119,6 @@
    understands me too 😄"
 </pre>
 
-<br clear="right"/>
-
 <!-- Animated Divider -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -136,7 +129,7 @@
 <!-- Tech Stack Section -->
 <div align="center">
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech Arsenal & Toolkit</h2>
+<h2>🛠️ Tech Arsenal & Toolkit</h2>
 
 <!-- Animated Skill Icons -->
 <h3>🔧 Technologies I Work With</h3>
@@ -211,7 +204,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </td>
 <td align="center" width="200">
-<h3>🛠️ Tools</h3>
+<h3>🧰 Tools</h3>
 <br/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <br/>
@@ -248,27 +241,100 @@
 
 <br/>
 
-<!-- Skill Proficiency -->
+<!-- Skill Proficiency - REDESIGNED -->
 <details>
 <summary><b>📊 Click to View Detailed Skill Proficiency</b></summary>
 <br/>
-<pre>
-<b>⚡ EXPERT LEVEL</b>
-Python          ████████████████████░░░░   85%  🐍
-HTML/CSS        ████████████████████░░░░   80%  🎨
-Problem Solving ██████████████████████░░   90%  🧠
 
-<b>🔥 ADVANCED LEVEL</b>
-JavaScript      ██████████████████░░░░░░   75%  ⚡
-Git/GitHub      ███████████████████░░░░░   78%  🔧
-SQLite          ████████████████░░░░░░░░   68%  🗄️
+<table>
+<tr>
+<th align="left" width="200">Technology</th>
+<th align="left" width="300">Proficiency</th>
+<th align="center" width="80">Level</th>
+<th align="center" width="100">Status</th>
+</tr>
+<tr>
+<td><b>🐍 Python</b></td>
+<td>
+<img src="https://geps.dev/progress/85" alt="85%" />
+</td>
+<td align="center">85%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Expert-238636?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>🧠 Problem Solving</b></td>
+<td>
+<img src="https://geps.dev/progress/90" alt="90%" />
+</td>
+<td align="center">90%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Expert-238636?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>🎨 HTML / CSS</b></td>
+<td>
+<img src="https://geps.dev/progress/80" alt="80%" />
+</td>
+<td align="center">80%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Advanced-58a6ff?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>🔧 Git / GitHub</b></td>
+<td>
+<img src="https://geps.dev/progress/78" alt="78%" />
+</td>
+<td align="center">78%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Advanced-58a6ff?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>⚡ JavaScript</b></td>
+<td>
+<img src="https://geps.dev/progress/75" alt="75%" />
+</td>
+<td align="center">75%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Advanced-58a6ff?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>🗄️ SQLite</b></td>
+<td>
+<img src="https://geps.dev/progress/68" alt="68%" />
+</td>
+<td align="center">68%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Intermediate-e3b341?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>⚛️ React</b></td>
+<td>
+<img src="https://geps.dev/progress/50" alt="50%" />
+</td>
+<td align="center">50%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Learning-ff6b35?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>🟢 Node.js</b></td>
+<td>
+<img src="https://geps.dev/progress/45" alt="45%" />
+</td>
+<td align="center">45%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Learning-ff6b35?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>📘 TypeScript</b></td>
+<td>
+<img src="https://geps.dev/progress/42" alt="42%" />
+</td>
+<td align="center">42%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Learning-ff6b35?style=flat-square" /></td>
+</tr>
+<tr>
+<td><b>🐳 Docker</b></td>
+<td>
+<img src="https://geps.dev/progress/35" alt="35%" />
+</td>
+<td align="center">35%</td>
+<td align="center"><img src="https://img.shields.io/badge/-Beginner-6f42c1?style=flat-square" /></td>
+</tr>
+</table>
 
-<b>🌱 GROWING LEVEL</b>
-React           ████████████░░░░░░░░░░░░   50%  ⚛️
-Node.js         ██████████░░░░░░░░░░░░░░   45%  🟢
-Docker          ████████░░░░░░░░░░░░░░░░   35%  🐳
-TypeScript      ██████████░░░░░░░░░░░░░░   42%  📘
-</pre>
 </details>
 
 </div>
@@ -283,7 +349,7 @@ TypeScript      ██████████░░░░░░░░░░░�
 <!-- GitHub Stats Section -->
 <div align="center">
 
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics Dashboard</h2>
+<h2>📈 GitHub Analytics Dashboard</h2>
 
 <!-- Stats Cards Row -->
 <p>
@@ -291,7 +357,7 @@ TypeScript      ██████████░░░░░░░░░░░�
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=amirgithubreza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
-<!-- Languages Card -->
+<!-- Languages Cards -->
 <p>
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgithubreza&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgithubreza&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Languages Donut" />
@@ -314,6 +380,38 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 ---
 
+<!-- GitHub Skyline & Summary Cards -->
+<div align="center">
+
+<h2>🏙️ GitHub Profile Deep Dive</h2>
+
+<a href="https://skyline.github.com/amirgithubreza/2024">
+<img src="https://img.shields.io/badge/🏙️_View_My_2024_GitHub_Skyline_in_3D-58a6ff?style=for-the-badge&labelColor=0d1117" alt="GitHub Skyline" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/amirgithubreza">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirgithubreza&theme=github_dark" width="100%" alt="Profile Details" />
+</a>
+
+<br/>
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirgithubreza&theme=github_dark" width="32%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirgithubreza&theme=github_dark" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirgithubreza&theme=github_dark&utcOffset=3.5" width="32%" alt="Productive Time" />
+</p>
+
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
 <!-- GitHub Trophies -->
 <div align="center">
 
@@ -323,7 +421,6 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 <br/><br/>
 
-<!-- Custom Achievement Badges -->
 <table>
 <tr>
 <td align="center">
@@ -356,7 +453,7 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 ---
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects -->
 <div align="center">
 
 <h2>🚀 Featured Projects Showcase</h2>
@@ -476,36 +573,48 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 ---
 
-<!-- Coding Metrics -->
+<!-- Coding Metrics - REDESIGNED -->
 <div align="center">
 
 <h2>📊 Coding Metrics & Milestones</h2>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="16.6%">
+<br/>
 <h1>3+</h1>
 <img src="https://img.shields.io/badge/-Years%20Coding-58a6ff?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 </td>
-<td align="center">
+<td align="center" width="16.6%">
+<br/>
 <h1>8+</h1>
 <img src="https://img.shields.io/badge/-Technologies-238636?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 </td>
-<td align="center">
+<td align="center" width="16.6%">
+<br/>
 <h1>∞</h1>
-<img src="https://img.shields.io/badge/-Lines%20of%20Code-e3b341?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Lines%20Written-e3b341?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 </td>
-<td align="center">
-<h1>☕</h1>
-<img src="https://img.shields.io/badge/-500%2B%20Coffees-ff6b35?style=flat-square&labelColor=0d1117" />
+<td align="center" width="16.6%">
+<br/>
+<h1>500+</h1>
+<img src="https://img.shields.io/badge/-Coffees-ff6b35?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 </td>
-<td align="center">
-<h1>🐛</h1>
-<img src="https://img.shields.io/badge/-1000%2B%20Bugs%20Fixed-6f42c1?style=flat-square&labelColor=0d1117" />
+<td align="center" width="16.6%">
+<br/>
+<h1>1K+</h1>
+<img src="https://img.shields.io/badge/-Bugs%20Fixed-6f42c1?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 </td>
-<td align="center">
+<td align="center" width="16.6%">
+<br/>
 <h1>💡</h1>
 <img src="https://img.shields.io/badge/-Countless%20Ideas-f05033?style=flat-square&labelColor=0d1117" />
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -519,28 +628,24 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 ---
 
-<!-- What I Bring -->
+<!-- What I Bring - REDESIGNED -->
 <div align="center">
 
-<h2>💡 What I Bring to the Table</h2>
-
-</div>
+<h2>💡 Core Competencies</h2>
 
 <table>
 <tr>
 <td align="center" width="16.6%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/code.png" width="48" height="48" alt="code"/>
-<br/><br/>
+<h2>🏗️</h2>
 <b>Clean Code</b>
 <br/>
-<sub>Readable & Maintainable</sub>
+<sub>Readable, Maintainable & DRY</sub>
 <br/><br/>
 </td>
 <td align="center" width="16.6%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/web-design.png" width="48" height="48" alt="web"/>
-<br/><br/>
+<h2>🌐</h2>
 <b>Web Dev</b>
 <br/>
 <sub>Responsive & Interactive</sub>
@@ -548,8 +653,7 @@ TypeScript      ██████████░░░░░░░░░░░�
 </td>
 <td align="center" width="16.6%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/database.png" width="48" height="48" alt="database"/>
-<br/><br/>
+<h2>🗄️</h2>
 <b>Database</b>
 <br/>
 <sub>Efficient & Scalable</sub>
@@ -557,17 +661,15 @@ TypeScript      ██████████░░░░░░░░░░░�
 </td>
 <td align="center" width="16.6%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/brain.png" width="48" height="48" alt="problem"/>
-<br/><br/>
+<h2>🧠</h2>
 <b>Problem Solver</b>
 <br/>
-<sub>Analytical Thinking</sub>
+<sub>Analytical & Creative</sub>
 <br/><br/>
 </td>
 <td align="center" width="16.6%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/api-settings.png" width="48" height="48" alt="api"/>
-<br/><br/>
+<h2>🔌</h2>
 <b>API Design</b>
 <br/>
 <sub>RESTful & Robust</sub>
@@ -575,8 +677,7 @@ TypeScript      ██████████░░░░░░░░░░░�
 </td>
 <td align="center" width="16.6%">
 <br/>
-<img src="https://img.icons8.com/fluency/48/automation.png" width="48" height="48" alt="automation"/>
-<br/><br/>
+<h2>⚙️</h2>
 <b>Automation</b>
 <br/>
 <sub>Efficient Workflows</sub>
@@ -585,28 +686,6 @@ TypeScript      ██████████░░░░░░░░░░░�
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-<!-- Development Workflow -->
-<div align="center">
-
-<h2>🔄 Development Workflow</h2>
-
-<pre>
-       ╔═══════════╗       ╔═══════════╗       ╔═══════════╗       ╔═══════════╗       ╔═══════════╗
-       ║  💡 IDEA   ║──────▶║  📝 PLAN  ║──────▶║  💻 CODE  ║──────▶║  🧪 TEST  ║──────▶║  🚀 SHIP  ║
-       ╚═══════════╝       ╚═══════════╝       ╚═══════════╝       ╚═══════════╝       ╚═══════════╝
-              │                                                                                │
-              │                        ╔═══════════════════════╗                               │
-              └────────────────────────║   🔄 ITERATE & IMPROVE  ║◀──────────────────────────────┘
-                                       ╚═══════════════════════╝
-</pre>
-
 </div>
 
 <!-- Animated Divider -->
@@ -616,18 +695,122 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 ---
 
-<!-- Weekly Breakdown -->
+<!-- Development Workflow - REDESIGNED -->
 <div align="center">
 
-<h2>⏰ Weekly Development Breakdown</h2>
+<h2>🔄 Development Lifecycle</h2>
 
-<pre>
-🌅 Morning    ██████████░░░░░░░░░░░░░░░   40%  ☕ Learning & Research
-🌞 Afternoon  ████████████████░░░░░░░░░   65%  🔨 Active Development  
-🌆 Evening    ████████████████████░░░░░   80%  🔥 Peak Productivity
-🌙 Night      ██████████████░░░░░░░░░░░   55%  🐛 Code Review & Debug
-🌃 Late Night ████████░░░░░░░░░░░░░░░░░   30%  💡 Side Projects
-</pre>
+<table>
+<tr>
+<td align="center" width="20%">
+<br/>
+<h1>💡</h1>
+<b>IDEATE</b>
+<br/>
+<sub>Research & Brainstorm</sub>
+<br/><br/>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="20%">
+<br/>
+<h1>📝</h1>
+<b>PLAN</b>
+<br/>
+<sub>Architecture & Design</sub>
+<br/><br/>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="20%">
+<br/>
+<h1>💻</h1>
+<b>BUILD</b>
+<br/>
+<sub>Code & Implement</sub>
+<br/><br/>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="20%">
+<br/>
+<h1>🧪</h1>
+<b>TEST</b>
+<br/>
+<sub>Debug & Optimize</sub>
+<br/><br/>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="20%">
+<br/>
+<h1>🚀</h1>
+<b>DEPLOY</b>
+<br/>
+<sub>Ship & Monitor</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/🔄_Then_Iterate_&_Improve_Continuously-161b22?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+<!-- Weekly Breakdown - REDESIGNED -->
+<div align="center">
+
+<h2>⏰ Weekly Development Rhythm</h2>
+
+<table>
+<tr>
+<th width="20%">Time of Day</th>
+<th width="40%">Activity</th>
+<th width="20%">Energy</th>
+<th width="20%">Level</th>
+</tr>
+<tr>
+<td align="center">🌅 Morning</td>
+<td align="center">☕ Learning & Research</td>
+<td align="center"><img src="https://geps.dev/progress/40" width="120" /></td>
+<td align="center">40%</td>
+</tr>
+<tr>
+<td align="center">🌞 Afternoon</td>
+<td align="center">🔨 Active Development</td>
+<td align="center"><img src="https://geps.dev/progress/65" width="120" /></td>
+<td align="center">65%</td>
+</tr>
+<tr>
+<td align="center">🌆 Evening</td>
+<td align="center">🔥 Peak Productivity</td>
+<td align="center"><img src="https://geps.dev/progress/80" width="120" /></td>
+<td align="center">80%</td>
+</tr>
+<tr>
+<td align="center">🌙 Night</td>
+<td align="center">🐛 Code Review & Debug</td>
+<td align="center"><img src="https://geps.dev/progress/55" width="120" /></td>
+<td align="center">55%</td>
+</tr>
+<tr>
+<td align="center">🌃 Late Night</td>
+<td align="center">💡 Side Projects</td>
+<td align="center"><img src="https://geps.dev/progress/30" width="120" /></td>
+<td align="center">30%</td>
+</tr>
+</table>
 
 <br/>
 
@@ -652,65 +835,61 @@ TypeScript      ██████████░░░░░░░░░░░�
 
 ---
 
-<!-- Learning Roadmap -->
+<!-- Learning Roadmap - REDESIGNED -->
 <div align="center">
 
-<h2>🗺️ Learning Roadmap 2025</h2>
+<h2>🗺️ 2025 Learning Roadmap</h2>
 
 <table>
 <tr>
-<td align="center" width="20%">
-<h3>Q1 ✅</h3>
-<img src="https://img.shields.io/badge/Status-Completed-238636?style=flat-square&labelColor=0d1117" />
+<td align="center" width="25%">
+<h3>🟢 Q1 — Done</h3>
+<img src="https://geps.dev/progress/100" width="150" />
 <br/><br/>
-<sub>
-✅ Advanced Python<br/>
-✅ Git Mastery<br/>
-✅ SQL Deep Dive<br/>
-✅ HTML/CSS Advanced
-</sub>
+<img src="https://img.shields.io/badge/✅_Advanced_Python-238636?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/✅_Git_Mastery-238636?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/✅_SQL_Deep_Dive-238636?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/✅_HTML%2FCSS_Pro-238636?style=flat-square&labelColor=0d1117" />
 </td>
-<td align="center" width="20%">
-<h3>Q2 🔄</h3>
-<img src="https://img.shields.io/badge/Status-In%20Progress-e3b341?style=flat-square&labelColor=0d1117" />
+<td align="center" width="25%">
+<h3>🟡 Q2 — Active</h3>
+<img src="https://geps.dev/progress/55" width="150" />
 <br/><br/>
-<sub>
-🔄 React & Next.js<br/>
-🔄 Node.js Backend<br/>
-🔄 REST API Design<br/>
-⏳ TypeScript
-</sub>
+<img src="https://img.shields.io/badge/🔄_React_%26_Next.js-e3b341?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/🔄_Node.js_Backend-e3b341?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/🔄_REST_API_Design-e3b341?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/⏳_TypeScript-8b949e?style=flat-square&labelColor=0d1117" />
 </td>
-<td align="center" width="20%">
-<h3>Q3 ⏳</h3>
-<img src="https://img.shields.io/badge/Status-Planned-58a6ff?style=flat-square&labelColor=0d1117" />
+<td align="center" width="25%">
+<h3>🔵 Q3 — Planned</h3>
+<img src="https://geps.dev/progress/0" width="150" />
 <br/><br/>
-<sub>
-⏳ Docker & DevOps<br/>
-⏳ Cloud (AWS)<br/>
-⏳ MongoDB Advanced<br/>
-⏳ GraphQL
-</sub>
+<img src="https://img.shields.io/badge/📋_Docker_%26_DevOps-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/📋_Cloud_(AWS)-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/📋_MongoDB_Advanced-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/📋_GraphQL-58a6ff?style=flat-square&labelColor=0d1117" />
 </td>
-<td align="center" width="20%">
-<h3>Q4 📋</h3>
-<img src="https://img.shields.io/badge/Status-Upcoming-8b949e?style=flat-square&labelColor=0d1117" />
+<td align="center" width="25%">
+<h3>⚪ Q4 — Upcoming</h3>
+<img src="https://geps.dev/progress/0" width="150" />
 <br/><br/>
-<sub>
-📋 System Design<br/>
-📋 Microservices<br/>
-📋 CI/CD Mastery<br/>
-📋 Portfolio Launch
-</sub>
+<img src="https://img.shields.io/badge/🔮_System_Design-8b949e?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/🔮_Microservices-8b949e?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/🔮_CI%2FCD_Mastery-8b949e?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/🔮_Portfolio_Launch-8b949e?style=flat-square&labelColor=0d1117" />
 </td>
 </tr>
 </table>
 
-<!-- Progress Bar -->
 <br/>
-<pre>
-Overall 2025 Progress: ████████████░░░░░░░░░░░░░  48%  🎯 On Track!
-</pre>
+
+<table>
+<tr>
+<td align="center" width="200"><b>Overall 2025 Progress</b></td>
+<td width="400"><img src="https://geps.dev/progress/48" width="300" /></td>
+<td align="center" width="200"><b>48% — 🎯 On Track!</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -721,42 +900,45 @@ Overall 2025 Progress: ████████████░░░░░░░
 
 ---
 
-<!-- Certifications & Achievements -->
+<!-- Certifications -->
 <div align="center">
 
-<h2>🎖️ Certifications & Achievements</h2>
+<h2>🎖️ Certifications & Expertise</h2>
 
 <table>
 <tr>
 <td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/color/48/certificate.png" width="48" height="48" alt="cert"/>
-<br/><br/>
+<h2>🐍</h2>
 <b>Python Programming</b>
 <br/>
-<img src="https://img.shields.io/badge/Level-Advanced-238636?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Level-Advanced-238636?style=for-the-badge&labelColor=0d1117" />
+<br/><br/>
+<img src="https://geps.dev/progress/85" width="150" />
 <br/>
 <sub>3+ years hands-on experience</sub>
 <br/><br/>
 </td>
 <td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/color/48/diploma.png" width="48" height="48" alt="diploma"/>
-<br/><br/>
+<h2>🌐</h2>
 <b>Web Development</b>
 <br/>
-<img src="https://img.shields.io/badge/Level-Intermediate-e3b341?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Level-Intermediate-e3b341?style=for-the-badge&labelColor=0d1117" />
+<br/><br/>
+<img src="https://geps.dev/progress/70" width="150" />
 <br/>
 <sub>Full-stack web applications</sub>
 <br/><br/>
 </td>
 <td align="center" width="33%">
 <br/>
-<img src="https://img.icons8.com/color/48/medal2.png" width="48" height="48" alt="medal"/>
-<br/><br/>
+<h2>🗄️</h2>
 <b>Database Management</b>
 <br/>
-<img src="https://img.shields.io/badge/Level-Intermediate-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Level-Intermediate-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<br/><br/>
+<img src="https://geps.dev/progress/65" width="150" />
 <br/>
 <sub>SQL & NoSQL databases</sub>
 <br/><br/>
@@ -773,10 +955,10 @@ Overall 2025 Progress: ████████████░░░░░░░
 
 ---
 
-<!-- Code Philosophy -->
+<!-- Code Philosophy - REDESIGNED -->
 <div align="center">
 
-<h2>🧠 My Code Philosophy</h2>
+<h2>🧠 Engineering Principles</h2>
 
 <table>
 <tr>
@@ -784,47 +966,84 @@ Overall 2025 Progress: ████████████░░░░░░░
 <br/>
 <h1>🏗️</h1>
 <b>Architecture First</b>
-<br/>
-<sub>"Plan the structure before writing any code"</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/-Plan_Before_Code-161b22?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub>"Design the blueprint<br/>before laying bricks"</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <h1>🧹</h1>
 <b>Clean Code</b>
-<br/>
-<sub>"Code is read more often than it's written"</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/-Readability_Matters-161b22?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub>"Code is read 10x more<br/>than it's written"</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <h1>🧪</h1>
 <b>Test Everything</b>
-<br/>
-<sub>"If it's not tested, it's broken"</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/-Quality_Assurance-161b22?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub>"Untested code is<br/>broken code"</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <h1>📈</h1>
-<b>Never Stop Learning</b>
-<br/>
-<sub>"Technology evolves, so should we"</sub>
+<b>Never Stop</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/-Continuous_Growth-161b22?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub>"Tech evolves daily,<br/>so should we"</sub>
 <br/><br/>
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+<!-- Terminal -->
+<div align="center">
+
+<h2>🖥️ Terminal — whoami</h2>
 
 <pre>
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   "Any fool can write code that a computer can understand.       │
-│    Good programmers write code that humans can understand."       │
-│                                           — Martin Fowler        │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+<b>amirreza@github ~ $</b> cat about.json
+{
+  "name"        : "Amir Reza",
+  "title"       : "Software Developer",
+  "education"   : "Electrotechnics @ University",
+  "experience"  : "3+ years",
+  "languages"   : ["Python", "JavaScript", "TypeScript", "SQL"],
+  "frameworks"  : ["React", "Node.js", "Django", "Flask"],
+  "databases"   : ["SQLite", "MySQL", "MongoDB"],
+  "tools"       : ["Git", "Docker", "VS Code", "Postman"],
+  "interests"   : ["Web Dev", "APIs", "Automation", "Open Source"],
+  "available"   : ["Collaboration", "Freelance", "Open Source"]
+}
+
+<b>amirreza@github ~ $</b> echo $MOTTO
+"Code is poetry written in logic 🎯"
+
+<b>amirreza@github ~ $</b> git log --oneline -1
+abc1234 Making the world better, one commit at a time 🚀
+
+<b>amirreza@github ~ $</b> uptime
+ 3+ years of non-stop learning & building
+
+<b>amirreza@github ~ $</b> █
 </pre>
 
 </div>
@@ -836,125 +1055,55 @@ Overall 2025 Progress: ████████████░░░░░░░
 
 ---
 
-<!-- GitHub Skyline -->
+<!-- Coding Vibes - REDESIGNED -->
 <div align="center">
 
-<h2>🏙️ GitHub Contribution 3D Skyline</h2>
-
-<a href="https://skyline.github.com/amirgithubreza/2024">
-<img src="https://img.shields.io/badge/🏙️_View_My_2024_GitHub_Skyline-58a6ff?style=for-the-badge&labelColor=0d1117" alt="GitHub Skyline" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/amirgithubreza">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirgithubreza&theme=github_dark" width="100%" alt="Profile Details" />
-</a>
-
-<br/>
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirgithubreza&theme=github_dark" width="32%" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirgithubreza&theme=github_dark" width="32%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirgithubreza&theme=github_dark&utcOffset=3.5" width="32%" alt="Productive Time" />
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-<!-- Coding Vibes -->
-<div align="center">
-
-<h2>🎵 Coding Vibes & Soundtrack</h2>
-
-<blockquote><i>"Great code deserves a great soundtrack 🎧"</i></blockquote>
-
-<br/>
+<h2>🎵 Coding Soundtrack</h2>
 
 <table>
 <tr>
-<th width="15%">Mood</th>
-<th width="25%">Genre</th>
-<th width="30%">When</th>
-<th width="30%">Vibe Level</th>
+<th width="12%">Mood</th>
+<th width="22%">Genre</th>
+<th width="26%">When</th>
+<th width="25%">Vibe</th>
+<th width="15%">Level</th>
 </tr>
 <tr>
-<td align="center">🔥 Focused</td>
+<td align="center">🔥</td>
 <td align="center">Lo-Fi / Ambient</td>
 <td align="center">Deep Coding Sessions</td>
-<td align="center">████████████░░ 85%</td>
+<td align="center"><img src="https://geps.dev/progress/85" width="100" /></td>
+<td align="center">85%</td>
 </tr>
 <tr>
-<td align="center">⚡ Energized</td>
+<td align="center">⚡</td>
 <td align="center">Electronic / EDM</td>
 <td align="center">Building Features</td>
-<td align="center">██████████████ 95%</td>
+<td align="center"><img src="https://geps.dev/progress/95" width="100" /></td>
+<td align="center">95%</td>
 </tr>
 <tr>
-<td align="center">🧘 Relaxed</td>
+<td align="center">🧘</td>
 <td align="center">Classical / Jazz</td>
 <td align="center">Debugging</td>
-<td align="center">██████████░░░░ 70%</td>
+<td align="center"><img src="https://geps.dev/progress/70" width="100" /></td>
+<td align="center">70%</td>
 </tr>
 <tr>
-<td align="center">🎉 Celebrating</td>
+<td align="center">🎉</td>
 <td align="center">Rock / Pop</td>
 <td align="center">After Deployment</td>
-<td align="center">██████████████ 100%</td>
+<td align="center"><img src="https://geps.dev/progress/100" width="100" /></td>
+<td align="center">100%</td>
 </tr>
 <tr>
-<td align="center">🌙 Late Night</td>
+<td align="center">🌙</td>
 <td align="center">Synthwave</td>
-<td align="center">Side Projects</td>
-<td align="center">███████████░░░ 80%</td>
+<td align="center">Late Night Projects</td>
+<td align="center"><img src="https://geps.dev/progress/80" width="100" /></td>
+<td align="center">80%</td>
 </tr>
 </table>
-
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-<!-- Fun Terminal -->
-<div align="center">
-
-<h2>🖥️ Terminal — About Me</h2>
-
-<pre>
-<b>amirreza@github:~$</b> cat about_me.json
-{
-  "name": "Amir Reza",
-  "title": "Software Developer",
-  "education": "Electrotechnics @ University",
-  "experience": "3+ years",
-  "languages": ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
-  "frameworks": ["React", "Node.js", "Django", "Flask", "Bootstrap", "Tailwind"],
-  "databases": ["SQLite", "MySQL", "MongoDB"],
-  "tools": ["Git", "Docker", "VS Code", "PyCharm", "Postman", "Figma"],
-  "interests": ["Web Dev", "APIs", "Automation", "Open Source"],
-  "motto": "Code is poetry written in logic 🎯",
-  "available_for": ["Collaboration", "Open Source", "Freelance", "Learning"]
-}
-
-<b>amirreza@github:~$</b> echo "Thanks for visiting! 🚀"
-Thanks for visiting! 🚀
-
-<b>amirreza@github:~$</b> git commit -m "Making the world better, one commit at a time"
-[main abc1234] Making the world better, one commit at a time
- ∞ files changed, ∞ insertions(+)
-
-<b>amirreza@github:~$</b> █
-</pre>
 
 </div>
 
@@ -985,28 +1134,56 @@ Thanks for visiting! 🚀
 
 ---
 
-<!-- Random Dev Joke -->
+<!-- Dev Joke -->
 <div align="center">
 
-<h2>😂 Need a Laugh? Here's a Dev Joke</h2>
+<h2>😂 Dev Humor Break</h2>
 
 <img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&bgColor=0d1117&borderColor=30363d&qColor=58a6ff&aColor=8b949e" alt="Dev Joke" />
 
 <br/><br/>
 
-<!-- Programming Meme -->
 <table>
 <tr>
 <td align="center">
 <pre>
-// My code works!
-// I have no idea why.
-
-// My code doesn't work!
-// I have no idea why.
-
-// ¯\_(ツ)_/¯
+// My code works — I have no idea why
+// My code broke — I have no idea why
+// ¯\_(ツ)_/¯  — The developer lifecycle
 </pre>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+<!-- Testimonials -->
+<div align="center">
+
+<h2>💬 What People Say</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<br/>
+<blockquote>
+<i>"Amir writes clean, well-structured code that's a pleasure to review and maintain."</i>
+</blockquote>
+<p align="right"><sub>— Fellow Developer 🧑‍💻</sub></p>
+</td>
+<td width="50%" valign="top">
+<br/>
+<blockquote>
+<i>"His problem-solving skills are exceptional. Creative solutions to complex challenges every time."</i>
+</blockquote>
+<p align="right"><sub>— Project Teammate 🤝</sub></p>
 </td>
 </tr>
 </table>
@@ -1023,7 +1200,7 @@ Thanks for visiting! 🚀
 <!-- Connect Section -->
 <div align="center">
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Build the Future Together</h2>
+<h2>🌐 Let's Build the Future Together</h2>
 
 <br/>
 
@@ -1065,7 +1242,6 @@ Thanks for visiting! 🚀
 
 <br/><br/>
 
-<!-- Availability Status -->
 <table>
 <tr>
 <td align="center">
@@ -1092,9 +1268,9 @@ Thanks for visiting! 🚀
 <!-- Support Section -->
 <div align="center">
 
-<h2>💖 Support My Work</h2>
+<h2>💖 Support My Journey</h2>
 
-<p>If you find my projects helpful or interesting, consider supporting me!</p>
+<p>If you find my projects helpful, consider supporting!</p>
 
 <br/>
 
@@ -1112,61 +1288,25 @@ Thanks for visiting! 🚀
 
 <br/><br/>
 
-<!-- Sponsor Tiers -->
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>☕ Coffee Tier</h3>
-<sub>A small coffee to keep me coding</sub>
+<h3>☕ Coffee</h3>
+<sub>Keep the code flowing</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/$3-Buy%20Coffee-FFDD00?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/$3-FFDD00?style=for-the-badge&labelColor=0d1117" />
 </td>
 <td align="center" width="33%">
-<h3>🍕 Pizza Tier</h3>
-<sub>Fuel for late-night coding sessions</sub>
+<h3>🍕 Pizza</h3>
+<sub>Fuel late-night sessions</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/$10-Buy%20Pizza-ff6b35?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/$10-ff6b35?style=for-the-badge&labelColor=0d1117" />
 </td>
 <td align="center" width="33%">
-<h3>🚀 Rocket Tier</h3>
-<sub>Help me launch my next big project</sub>
+<h3>🚀 Rocket</h3>
+<sub>Launch the next project</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/$25-Go%20Rocket-6f42c1?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-<!-- Testimonials -->
-<div align="center">
-
-<h2>💬 What People Say</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
-<blockquote>
-<i>"Amir writes clean, well-structured code that's easy to understand and maintain. A pleasure to collaborate with!"</i>
-</blockquote>
-<sub>— Fellow Developer</sub>
-<br/><br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-<blockquote>
-<i>"His problem-solving skills are exceptional. He always finds creative solutions to complex challenges."</i>
-</blockquote>
-<sub>— Project Teammate</sub>
-<br/><br/>
+<img src="https://img.shields.io/badge/$25-6f42c1?style=for-the-badge&labelColor=0d1117" />
 </td>
 </tr>
 </table>
@@ -1224,7 +1364,6 @@ Thanks for visiting! 🚀
 
 <br/>
 
-<!-- Last Updated -->
 <img src="https://img.shields.io/badge/Last%20Updated-June%202025-58a6ff?style=flat-square&labelColor=0d1117" />
 
 <br/><br/>
@@ -1273,8 +1412,8 @@ Thanks for visiting! 🚀
     ╚═╝      ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   
 
 </pre>
-<p><b>🎉 Congrats! You're curious — that's a great trait for a developer!</b></p>
-<p>Here's a secret: The best code is written with curiosity and passion. Keep exploring! 🚀</p>
+<p><b>🎉 Congrats! You're curious — the #1 trait of great developers!</b></p>
+<p>Secret: The best code is written with curiosity and passion. Keep exploring! 🚀</p>
 </details>
 
 </div>
